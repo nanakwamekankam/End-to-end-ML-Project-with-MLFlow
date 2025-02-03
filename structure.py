@@ -1,5 +1,5 @@
 '''
-Creating Structure
+Creating File/Folder Structure for Project
 '''
 
 import os
