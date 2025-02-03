@@ -11,6 +11,7 @@ project_name ='mlProject'
 
 files = [
     ".github/workflows/.gitkeep",
+    "cookbook.txt"
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/utils/__init__.py",
