@@ -9,7 +9,7 @@ data_ingestion: # Download and unzip dataset
 
 
 
-data_validation:
+data_validation: # Data preprocessing pipeline
   root_dir: artifacts/data_validation
   unzip_data_dir: artifacts/data_ingestion/winequality-red.csv
   STATUS_FILE: artifacts/data_validation/status.txt

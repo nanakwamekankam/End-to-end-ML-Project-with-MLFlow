@@ -8,6 +8,6 @@
 4. Update the entity
 5. Update the configuration manager in src config:  managing the configuration of the project
 6. Update the components
-7. Update the pipeline : flow of work. i.e., configure->download->unzip
+7. Update the pipeline : flow of work.
 8. Update the main.py
 9. Update the app.py
