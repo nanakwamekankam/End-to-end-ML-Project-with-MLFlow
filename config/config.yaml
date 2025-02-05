@@ -16,7 +16,7 @@ data_validation: # Data preprocessing pipeline
 
 
 
-data_transformation:
+data_transformation: # Data Transformation Pipeline
   root_dir: artifacts/data_transformation
   data_path: artifacts/data_ingestion/winequality-red.csv
 
