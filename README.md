@@ -15,7 +15,7 @@ For each Stage
 6. Update the components: individual .py files for the stages of the pipeline
 7. Update the pipeline : flow of work
 8. Update the main.py: function that runs the pipeline
-9. Update the app.py
+9. Update the app.py: UI to be able to do model inference and see prediction results
 
 
 # How to run?
